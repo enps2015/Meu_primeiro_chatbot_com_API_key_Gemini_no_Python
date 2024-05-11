@@ -13,7 +13,7 @@ Este projeto é um chatbot desenvolvido em Python usando a API key da Gemini. O 
 - Geração de Texto: O chatbot pode gerar diferentes tipos de texto criativo, como poemas, código, scripts, peças musicais, e-mail, cartas, etc., com base nas instruções do usuário.
 
 ## Como Executar o Projeto
-1. Clone este repositório para o seu ambiente local: git clone [https://github.com/seu_usuario/seu_repositorio.git](https://github.com/enps2015/Meu_primeiro_chatbot_com_API_key_Gemini_no_Python)
+1. Clone este repositório para o seu ambiente local: git clone [Meu_primeiro_chatbot_com_API_key_Gemini_no_Python](https://github.com/enps2015/Meu_primeiro_chatbot_com_API_key_Gemini_no_Python)](https://github.com/enps2015/Meu_primeiro_chatbot_com_API_key_Gemini_no_Python)
 2. Abra o arquivo [chatbot_gemini.ipynb](https://github.com/enps2015/Meu_primeiro_chatbot_com_API_key_Gemini_no_Python/blob/main/PrimeiroChatbotUsandoAPIkeyGemini.ipynb) no Google Colab.
 3. Importante: Certifique-se de ter uma conta Google e estar logado.
 4. Execute as células do notebook em ordem para inicializar o chatbot e começar a interagir.
