@@ -18,7 +18,7 @@ Este projeto é um chatbot desenvolvido em Python usando a API key da Gemini. O 
 3. Importante: Certifique-se de ter uma conta Google e estar logado.
 4. Execute as células do notebook em ordem para inicializar o chatbot e começar a interagir.
 
-## Desafios EncontradosPróximos Passos �
+## Desafios Encontrados e Próximos Passos 
 Durante o desenvolvimento, enfrentei os seguintes desafios:
 - Integrar a API do Gemini no Google Colab de forma eficiente.
 - Lidar com diferentes tipos de entrada do usuário e garantir respostas coerentes.
